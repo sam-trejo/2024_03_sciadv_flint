@@ -1,5 +1,4 @@
 # 2024_03_sciadv_flint
-Code for Yeomans-Maldonado, ; Jacob 2023, Science Advances. 
 
 Authors: Sam Trejo, Gloria Yeomans-Maldonado, &amp Brian Jacob
 
