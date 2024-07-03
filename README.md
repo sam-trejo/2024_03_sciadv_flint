@@ -1,6 +1,6 @@
 # 2024_03_sciadv_flint
 
-Authors: Sam Trejo, Gloria Yeomans-Maldonado, &amp Brian Jacob
+Authors: Sam Trejo, Gloria Yeomans-Maldonado, & Brian Jacob
 
 Title: The Effects of the Flint Water Crisis on the Educational Outcomes of School-Age Children
 
