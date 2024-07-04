@@ -1,6 +1,6 @@
 # 2024_03_sciadv_flint
 
-[![DOI](https://zenodo.org/badge/667588840.svg)](https://zenodo.org/doi/10.5281/zenodo.12646562)
+[![DOI](https://zenodo.org/badge/823811213.svg)](https://zenodo.org/doi/10.5281/zenodo.12640996)
 
 Authors: Sam Trejo, Gloria Yeomans-Maldonado, & Brian Jacob
 
